@@ -1,2 +1,3 @@
-# inventario414-api
-ScrumDev AI backend (inventario414-api)
+# INVENTARIO414 - Backend
+
+FastAPI desplegado en Render.
